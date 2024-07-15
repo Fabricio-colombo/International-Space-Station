@@ -8,6 +8,10 @@ Este projeto em Python fornece informações em tempo real sobre a Estação Esp
 - **Cálculo de Velocidade**: Ele calcula a velocidade da ISS entre as atualizações de posição.
 - **Plotagem de Mapa**: Ele utiliza a biblioteca Basemap para plotar a localização da ISS em um mapa.
 
+## Amazonas, Região Norte - Brasil
+
+![ISS passando pelo Brasil](img/amazonas_br_iss.png)
+
 ## Instalação
 
 1. **Clone o repositório:**
